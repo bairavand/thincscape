@@ -1,0 +1,36 @@
+body{
+	font-family: 'Roboto' !important;
+}
+.p-10{
+	padding: 10px;
+}
+.bg-blue {
+	background: rgba(118,181,239,1);
+background: -moz-linear-gradient(left, rgba(118,181,239,1) 29%, rgba(118,181,239,1) 44%, rgba(89,160,236,1) 79%, rgba(72,148,234,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(29%, rgba(118,181,239,1)), color-stop(44%, rgba(118,181,239,1)), color-stop(79%, rgba(89,160,236,1)), color-stop(100%, rgba(72,148,234,1)));
+background: -webkit-linear-gradient(left, rgba(118,181,239,1) 29%, rgba(118,181,239,1) 44%, rgba(89,160,236,1) 79%, rgba(72,148,234,1) 100%);
+background: -o-linear-gradient(left, rgba(118,181,239,1) 29%, rgba(118,181,239,1) 44%, rgba(89,160,236,1) 79%, rgba(72,148,234,1) 100%);
+background: -ms-linear-gradient(left, rgba(118,181,239,1) 29%, rgba(118,181,239,1) 44%, rgba(89,160,236,1) 79%, rgba(72,148,234,1) 100%);
+background: linear-gradient(to right, rgba(118,181,239,1) 29%, rgba(118,181,239,1) 44%, rgba(89,160,236,1) 79%, rgba(72,148,234,1) 100%);
+color: #FFF;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#76b5ef', endColorstr='#4894ea', GradientType=1 );
+}
+li{
+	list-style:none;
+}
+.nav-txt{
+	color: #FFF !important;
+	font-size: 20px !important;
+	font-weight: bold !important;
+}
+.bg-white{
+	background-color: #FFF;
+}
+.bar-title{
+	margin: 0;
+	padding: 0;
+	height: 44px;
+}
+.m-10{
+	margin: 0 20px 20px 0;
+}
